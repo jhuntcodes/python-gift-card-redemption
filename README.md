@@ -5,7 +5,7 @@ PROJECT TITLE: Gift Card Redemption Simulator
     - Will deny purchase if over the balance
     - Will update balance after successful purchases
     BUILT USING: Python
-      WHAT AM I LEARNING THROUGH THIS PROJECT?
+    WHAT AM I LEARNING THROUGH THIS PROJECT?
     - Variables
     - User input
     - If/else statements
